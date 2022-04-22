@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '46596'
     url: http://www.gutenberg.org/2009/agents/46596
     wikipedia: https://fi.wikipedia.org/wiki/Väinö_Nyman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Daunt, Achilles
     gutenberg_agent_id: '54470'
     url: http://www.gutenberg.org/2009/agents/54470
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67807#Turkisten-pyydystajat-Jannittavia-metsastysseikkailuja-salomailla
 gutenberg_issued: '2022-04-10'
 identifiers:
   gutenberg: '67807'
