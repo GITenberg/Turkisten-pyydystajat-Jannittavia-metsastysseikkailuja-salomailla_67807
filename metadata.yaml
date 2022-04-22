@@ -1,0 +1,33 @@
+_repo: Turkisten-pyydystajat-Jannittavia-metsastysseikkailuja-salomailla_67807
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Nyman, Väinö
+    alias: Nyman, Vaino
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '46596'
+    url: http://www.gutenberg.org/2009/agents/46596
+    wikipedia: https://fi.wikipedia.org/wiki/Väinö_Nyman
+creator:
+  author:
+    agent_name: Daunt, Achilles
+    gutenberg_agent_id: '54470'
+    url: http://www.gutenberg.org/2009/agents/54470
+description: ''
+gutenberg_issued: '2022-04-10'
+identifiers:
+  gutenberg: '67807'
+language: fi
+pgterms:marc905: 20210311093516daunt
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :Kust.Oy Kirja,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Turkisten pyydystäjät: Jännittäviä metsästysseikkailuja salomailla'
+url: http://www.gutenberg.org/ebooks/67807
